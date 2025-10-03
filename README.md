@@ -1,12 +1,14 @@
 # ¡Hola! 👋🏻
 
 Mi nombre es **José Luis Mosconi**.  
-Lidero equipos de desarrollo y diseño de productos digitales, con foco en soluciones **fintech** robustas y escalables.
+Soy **Engineering Manager**, lidero equipos de desarrollo y conduzco la creación de **productos digitales escalables**, asegurando la **excelencia técnica** y la **alineación con los objetivos del negocio**.  
 
-Tengo más de **15 años de experiencia** en la industria del software. A lo largo de mi carrera participé en proyectos globales, construyendo productos tecnológicos con alto impacto y centrados en el usuario.
+Tengo más de **15 años de experiencia** en la industria del software. A lo largo de mi carrera participé en **proyectos globales**, construyendo soluciones tecnológicas de **alto impacto** y acompañando a los equipos en su **crecimiento y desafíos de entrega**.  
 
-Además de una sólida base técnica, desarrollé habilidades blandas clave como la **comunicación efectiva**, el **trabajo en equipo**, la **resolución de problemas** y el **pensamiento crítico**.  
-Disfruto colaborar, compartir conocimientos y aprender constantemente. Me enfoco en mantener una comunicación clara y fluida con equipos y clientes para asegurar una ejecución exitosa de los proyectos.
+Más allá de una sólida base técnica, aporto habilidades blandas clave como la **comunicación efectiva**, el **liderazgo de equipos**, la **resolución de problemas** y el **pensamiento estratégico**.  
+Me enfoco en fomentar la **colaboración**, compartir conocimiento y promover la **mejora continua**.  
+
+Mi estilo de liderazgo se basa en la **claridad**, la **confianza** y el **crecimiento**, ayudando a que equipos y organizaciones **escale**n mientras entregan **productos con verdadero valor**.
 
 ---
 
